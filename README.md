@@ -4,15 +4,13 @@
 * ### **Jonathan**
 * ### **Johan**
 
-### **Contenido**
+## **Contenido**
 
 
-### **Objetivo :**
+## **Objetivo :**
 * ####  Conocer como se pueden realizar este tipo de pruebas en el Lenguaje Java usando las herramientas **Cucumber** , **Junit** y **Gradle** implementando el entorno de desarrollo **IntelliJ IDEA** 
 
-### **Herramientas:**
-
-<br>
+## **Herramientas:**
 
 * #### **Cucumber :** Cucumber es una herramienta para implementar metodologías como el Behaviour Driven Development (BDD) o desarrollo basado en comportamiento, que permite ejecutar descripciones funcionales en texto plano como pruebas de software automatizadas.Estas descripciones funcionales se escriben en un lenguaje específico de dominio, legible por el área de negocio, denominado Gherkin. Si se desea profundizar mas puede ir al siguiente link 
 
@@ -28,21 +26,19 @@
 
 * #### **IntelliJ IDEA :** IntelliJ IDEA es un Entorno de Desarrollo Integrado (IDE) creado por JetBrains. Está construido en Java y proporciona una experiencia consistente en Windows, macOS y Linux para muchos lenguajes diferentes. Si se desea profundizar mas puede ir al siguiente link 
 
-### **Instalacion :**
+<br>
+
+## **Instalacion :**
 
 #### Acontinuacion describiremos el proceso de instalacion de las herramientas  **IntelliJ IDEA** y **Gradle** que nos permitiran crear el proyecto y realizar las pruebas deseadas 
 
-<br>
 
-* #### Incialmente descargaremos la herramienta **Gradle**, para lo cual  nos diriguimos al siguiente link, donde automaticamente empezara la descarga como podemos ver en la siguente imagen:
-<br>
-
-* ![DesgarcaGadel](imagenes/DesgarcaGadel.png) 
+*   #### Incialmente descargaremos la herramienta **Gradle**,    para lo cual  nos diriguimos al siguiente link, donde automaticamente empezara la descarga como podemos ver en la siguente imagen:
     <br>
 
+    ![DesgarcaGadel](imagenes/DesgarcaGadel.png) 
     #### Como podemos ver en la imagen la version que se descargo es la 7.2 y esa es la que se va usar 
     
-<br>
 <br>
 
 *  #### Posteriormente descargaremos el **IntelliJ IDEA** desde el  siguiente  link.
@@ -65,10 +61,11 @@
 
 <br>
 
-<center>
+<div style="text-align:center">
 
 ![ConfiguracionGradle](imagenes/ConfiguracionGradle.png)
-</center>
+
+</div>
 
 <br>
 
@@ -76,9 +73,10 @@
 
 <br>
 
-<center>
+<div style="text-align:center">
 
 ![ArchivoZip](imagenes/ArchivoZip.png)
+
 <br>
 
 ![Descomprimindo](imagenes/Descomprimindo.png)
@@ -87,15 +85,15 @@
 
 ![DescompresionZip](imagenes/DescompresionZip.png)
 
-</center>
+</div>
 
-<br>
+
 
 #### Ya descomprimido el archivo y ubicado en una carpeta de nuestra eleccion, vamos a configurar las variables de entorno para que el sistema reconozca la herramienta. Esto lo vamos a realizar de la siguiente forma:
 
 <br>
 
-<center>
+<div style="text-align:center">
 
 
 ![BuscarVariablesEn](imagenes/BuscarVariablesEn.png)
@@ -112,7 +110,7 @@
 
 ![PruebaConfig](Imagenes/PruebaConfig.png)
 
-</center>
+</div>
 
 <br>
 
