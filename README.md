@@ -32,8 +32,12 @@
 
 #### Acontinuacion describiremos el proceso de instalacion de las herramientas  **IntelliJ IDEA** y **Gradle** que nos permitiran crear el proyecto y realizar las pruebas deseadas 
 
+<br>
 
-*   #### Incialmente descargaremos la herramienta **Gradle**,    para lo cual  nos diriguimos al siguiente link, donde automaticamente empezara la descarga como podemos ver en la siguente imagen:
+### **Descarga de Gradle  e IntelliJ IDEA**
+<br>
+
+*   #### Incialmente descargamos la herramienta **Gradle**,    para lo cual  nos diriguimos al siguiente link, donde automaticamente empezara la descarga como podemos ver en la siguente imagen:
     <br>
 
     ![DesgarcaGadel](imagenes/DesgarcaGadel.png) 
@@ -57,6 +61,8 @@
 
 <br>
 
+### **Instalacion Gradel**
+
 #### Luego de haber descargado  ambas herramientas configuraremos inicialmente la herramienta **Gradle** como nos sugiere la documentacion de la misma, esto lo podemos ver en la imagen que aparece  a continuacion
 
 <br>
@@ -69,7 +75,7 @@
 
 <br>
 
-#### Con base en lo anterior el primer paso es descomprimir el archivo punto zip que quedo al realizar la descarga, esto lo haremos en el alguna carpeta que nos resulte comoda de manejar como se muestra acontinuacion:
+#### Con base en lo anterior lo primero que se realizo fue el  descomprimir el archivo punto zip que quedo al realizar la descarga, esto se hizo dentro de una carpeta que nos resulto comoda de manejar como podemos ver  a continuacion:
 
 <br>
 
@@ -89,30 +95,32 @@
 
 
 
-#### Ya descomprimido el archivo y ubicado en una carpeta de nuestra eleccion, vamos a configurar las variables de entorno para que el sistema reconozca la herramienta. Esto lo vamos a realizar de la siguiente forma:
+#### Ya descomprimido el archivo y ubicado en una carpeta de nuestra eleccion, realizamos la configuracion de las variables de entorno para que el sistema reconozca la herramienta. Esto lo vamos a realizar de la siguiente forma:
 
 <br>
 
-<div style="text-align:center">
 
-#### Prueba de alinieacion texto 
-</div>
-![BuscarVariablesEn](imagenes/BuscarVariablesEn.png)
+* #### **1)** Buscamos desde la barra de busqueda la opcion variables  de entorno y hacemos clic sobre ella como se muestra en la siguiente imagen
 
-![VentaIVariablesEn](imagenes/VentaIVariablesEn.png)
+  ![BuscarVariablesEn](imagenes/BuscarVariablesEn.png)
 
-![VentaVariablesEn](imagenes/VentaVariablesEn.png)
+* #### **2)** Luego de dar clic nos aparecera una venta y damos  clic sobre la opcion que dice variables de entorno como se muestra acontinuacion 
+  ![VentaIVariablesEn](imagenes/VentaIVariablesEn.png)
 
-![AgregarVariablesEn](imagenes/AgregarVariablesEn.png)
+* #### **3)** Ya en esta  ventana en la seccion que dice variables del sistema  y damos clic en la opcion nuevo como aparce en las siguiente imagen 
+  ![VentaVariablesEn](imagenes/VentaVariablesEn.png)
 
-![ConfigurarPath](imagenes/ConfigurarPath.png)
+* #### **4)** Nos aparece una subventa que nos permitira ingresar el nombre de  la variable y la ruta donde se encuentra. El nombre por defecto que se debe colocoar es GRADLE_HOME  y  la ruta que se agrega corresponde a la ruta donde descomprimimos  la herramienta **Gradle**; luego de llenados estos datos damos aceptar como vemos a continuacion
+  ![AgregarVariablesEn](imagenes/AgregarVariablesEn.png)
 
-![FinalizarConfig](imagenes/FinalizarConfig.png)
+* #### **5)** Luego de ingresada esta nueva variable nos dirigimos a la variable Path dando clic sobre ella, nos aperecera una nueva ventana donde crearemos una nueva ruta la cual va ser **%GRADLE_HOME%\bin** que hara referencia a la variable antes creada, al terminar de ingresar la ruta damos en aceptar; esto podemos visualor acontinuacion
+   ![ConfigurarPath](imagenes/ConfigurarPath.png)
 
-![PruebaConfig](imagenes/PruebaConfig.png)
+* #### **6)** Terminado el paso anterior ya solo queda dar clic en aceptar en la ventana para que nos guarde todo lo que hemos hecho, esto podemos vizualizarlo acontinuacion
+    ![FinalizarConfig](imagenes/FinalizarConfig.png)
 
-
-
+* #### **7)** Por ultimo podemos abrir el cmd para verificar si quedo correctamente configurado, para  ello necesitamos ejecutar el gradle -v como se ve acontinuacion
+    ![PruebaConfig](imagenes/PruebaConfig.png)
 
 
 <br>
