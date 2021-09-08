@@ -108,7 +108,9 @@
 
 ![FinalizarConfig](imagenes/FinalizarConfig.png)
 
-![PruebaConfig](Imagenes/PruebaConfig.png)
+![PruebaConfig](imagenes/PruebaConfig.png)
+
+<img align="center" src="imagenes/PruebaConfig.png" alt="...">
 
 </div>
 
