@@ -95,7 +95,8 @@
 
 <div style="text-align:center">
 
-
+#### Prueba de alinieacion texto 
+</div>
 ![BuscarVariablesEn](imagenes/BuscarVariablesEn.png)
 
 ![VentaIVariablesEn](imagenes/VentaIVariablesEn.png)
@@ -110,9 +111,9 @@
 
 ![PruebaConfig](imagenes/PruebaConfig.png)
 
-<img align="center" src="imagenes/FinalizarConfig.png" alt="...">
 
-</div>
+
+
 
 <br>
 
