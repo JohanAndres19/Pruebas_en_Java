@@ -110,7 +110,7 @@
 
 ![PruebaConfig](imagenes/PruebaConfig.png)
 
-<img align="center" src="imagenes/PruebaConfig.png" alt="...">
+<img align="center" src="imagenes/FinalizarConfig.png" alt="...">
 
 </div>
 
