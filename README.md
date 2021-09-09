@@ -13,15 +13,15 @@
 <!-- /vscode-markdown-toc -->
 
 ##  <a name='Contenido'></a>**Contenido**
-* 1. [**Objetivo :**](#Objetivo:)
-* 2. [**Herramientas:**](#Herramientas:)
-* 3. [**Instalacion :**](#Instalacion:)
-        * 3.1. [**Descarga de Gradle  e IntelliJ IDEA**](#DescargadeGradleeIntelliJIDEA)
-        *  3.2. [**Instalacion Gradel**](#InstalacionGradel)
-        * 3.3. [**Instalando IntelliJ IDEA**](#InstalandoIntelliJIDEA)
-        * 3.4. [**Instalacion Cucumber y Junit**](#InstalacionCucumberyJunit)
-* 4. [**Pruebas :**](#Pruebas:)
-* 5. [**Bibliografia :**](#Bibliografia:)
+1. [**Objetivo :**](#Objetivo:)
+2. [**Herramientas:**](#Herramientas:)
+3. [**Instalacion :**](#Instalacion:)
+    * 3.1. [**Descarga de Gradle  e IntelliJ IDEA**](#DescargadeGradleeIntelliJIDEA)
+    *  3.2. [**Instalacion Gradel**](#InstalacionGradel)
+    * 3.3. [**Instalando IntelliJ IDEA**](#InstalandoIntelliJIDEA)
+    * 3.4. [**Instalacion Cucumber y Junit**](#InstalacionCucumberyJunit)
+4. [**Pruebas :**](#Pruebas:)
+5. [**Bibliografia :**](#Bibliografia:)
 
 ##  1. <a name='Objetivo:'></a>**Objetivo :**
 * ####  Conocer como se pueden realizar este tipo de pruebas en el Lenguaje Java usando las herramientas **Cucumber** , **Junit** y **Gradle** implementando el entorno de desarrollo **IntelliJ IDEA** 
