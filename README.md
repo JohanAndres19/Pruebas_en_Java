@@ -13,20 +13,20 @@
 <!-- /vscode-markdown-toc -->
 
 ##  <a name='Contenido'></a>**Contenido**
-1. [**Objetivo :**](#Objetivo:)
-2. [**Herramientas:**](#Herramientas:)
-3. [**Instalacion :**](#Instalacion:)
+1. [**Objetivo :**](#Objetivo)
+2. [**Herramientas:**](#Herramientas)
+3. [**Instalacion :**](#Instalacion)
     * 3.1. [**Descarga de Gradle  e IntelliJ IDEA**](#DescargadeGradleeIntelliJIDEA)
     *  3.2. [**Instalacion Gradel**](#InstalacionGradel)
     * 3.3. [**Instalando IntelliJ IDEA**](#InstalandoIntelliJIDEA)
     * 3.4. [**Instalacion Cucumber y Junit**](#InstalacionCucumberyJunit)
-4. [**Pruebas :**](#Pruebas:)
-5. [**Bibliografia :**](#Bibliografia:)
+4. [**Pruebas :**](#Pruebas)
+5. [**Bibliografia :**](#Bibliografia)
 
-##  1. <a name='Objetivo:'></a>**Objetivo :**
+##  1. <a name='Objetivo'></a>**Objetivo :**
 * ####  Conocer como se pueden realizar este tipo de pruebas en el Lenguaje Java usando las herramientas **Cucumber** , **Junit** y **Gradle** implementando el entorno de desarrollo **IntelliJ IDEA** 
 
-## 2. <a name='Herramientas:'></a>**Herramientas:**
+## 2. <a name='Herramientas'></a>**Herramientas:**
 
 * #### **Cucumber :** Cucumber es una herramienta para implementar metodologías como el Behaviour Driven Development (BDD) o desarrollo basado en comportamiento, que permite ejecutar descripciones funcionales en texto plano como pruebas de software automatizadas.Estas descripciones funcionales se escriben en un lenguaje específico de dominio, legible por el área de negocio, denominado Gherkin. 
 
@@ -44,7 +44,7 @@
 
 <br>
 
-##  3. <a name='Instalacion:'></a>**Instalacion :**
+##  3. <a name='Instalacion'></a>**Instalacion :**
 
 ####  <a name='AcontinuaciondescribiremoselprocesodeinstalaciondelasherramientasIntelliJIDEAyGradlequenospermitirancrearelproyectoyrealizarlaspruebasdeseadas'></a>Acontinuacion describiremos el proceso de instalacion de las herramientas  **IntelliJ IDEA** y **Gradle** que nos permitiran crear el proyecto y realizar las pruebas deseadas 
 
@@ -172,7 +172,7 @@ dependencies {
 ```
 ####  3.4.2. <a name='EstasnospermitenelinstalarelCucumberyelJunitparapoderrealizarnuestraspruebas'></a>Estas nos permiten el instalar el Cucumber y el Junit para poder realizar nuestras pruebas 
 
-## 4. <a name='Pruebas:'></a>**Pruebas :**
+## 4. <a name='Pruebas'></a>**Pruebas :**
 <br>
 
 ####  4.1.1. <a name='Luegodeinstaladoycreadoelproyectoejecutamoslostestquecolocamosdentrodelproyectocomopodemosverenlasiguientesimagenes'></a>Luego de instalado y creado el proyecto  ejecutamos los test que colocamos dentro del proyecto, como podemos ver en la siguientes imagenes
@@ -200,7 +200,7 @@ dependencies {
 
 <br>
 
-##  5. <a name='Bibliografia:'></a>**Bibliografia :**
+##  5. <a name='Bibliografia'></a>**Bibliografia :**
 
 - #### https://docs.gradle.org/current/userguide/installation.html
 
