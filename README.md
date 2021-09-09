@@ -161,7 +161,7 @@
 ###  3.4. <a name='InstalacionCucumberyJunit'></a>**Instalacion Cucumber y Junit**
 <br>
 
-####  3.4.1. <a name='Luegodecreadonuestroproyectodentrodelarchivobuild.gradleagregamoslasiguienteslineasdecodigo'></a>Luego de creado nuestro proyecto  dentro del archivo **build.gradle** agregamos la siguientes lineas de codigo 
+####  3.4.1. <a name='Luegodecreadonuestroproyectodentrodelarchivobuild.gradleagregamoslasiguienteslineasdecodigo'></a>Luego de creado el proyecto tipo gradle, para poder ejecutar nuestras pruebas, dentro del archivo **build.gradle** agregamos la siguientes lineas de codigo 
 
 ```
 dependencies {
