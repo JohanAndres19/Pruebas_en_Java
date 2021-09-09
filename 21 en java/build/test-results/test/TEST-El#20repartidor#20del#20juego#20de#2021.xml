@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="El repartidor del juego de 21" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-08T19:29:09" hostname="JOHAN-AGUIRRE" time="0.237">
+  <properties/>
+  <testcase name="Repartir dos cartas" classname="El repartidor del juego de 21" time="0.237"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -191,12 +191,12 @@ dependencies {
 
 <br>
 
-###  4.2. <a name='Dentrodeestascarpetashayunarchivollamadoindex.htmlendondeseencuentralosresultadosdelaspruebasejecutadasanteriormente.Estolopodemosverenlasiguienteimagen'></a>Dentro de estas carpetas hay un archivo llamado index.html en donde se encuentra los resultados de las pruebas ejecutadas anteriormente. Esto lo podemos ver en la siguiente imagen
+####  4.2. <a name='Dentrodeestascarpetashayunarchivollamadoindex.htmlendondeseencuentralosresultadosdelaspruebasejecutadasanteriormente.Estolopodemosverenlasiguienteimagen'></a>Dentro de estas carpetas hay un archivo llamado index.html en donde se encuentra los resultados de las pruebas ejecutadas anteriormente. Esto lo podemos ver en la siguiente imagen
 <br>
 
 ![Resultadotest2](imagenes/Resultadotest2.png)
 
-###   <a name='Deestaformapodemosvernuestrotestenfuncionamientoincluyendolasherramientasimplemtadasparalarealizaciondeesteproyecto'></a>De esta forma podemos ver nuestro test en funcionamiento incluyendo las herramientas implemtadas para la realizacion de este proyecto 
+####   <a name='Deestaformapodemosvernuestrotestenfuncionamientoincluyendolasherramientasimplemtadasparalarealizaciondeesteproyecto'></a>De esta forma podemos ver nuestro test en funcionamiento incluyendo las herramientas implemtadas para la realizacion de este proyecto 
 
 <br>
 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Unitarias.pruebas_Unitarias" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-08T19:29:09" hostname="JOHAN-AGUIRRE" time="0.004">
+  <properties/>
+  <testcase name="test_Nueva_Mano" classname="Unitarias.pruebas_Unitarias" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
