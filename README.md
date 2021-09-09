@@ -41,19 +41,19 @@
     <br>
 
     ![DesgarcaGadel](imagenes/DesgarcaGadel.png) 
-    #### Como podemos ver en la imagen la version que se descargo es la 7.2 y esa es la que se va usar 
+    #### Como podemos ver en la imagen la version que se descargo es la 7.2, esta es la version que nosotros usamos. 
     
 <br>
 
 *  #### Posteriormente descargaremos el **IntelliJ IDEA** desde el  siguiente  link.
 
 
-   #### Dentro del link tendremos 2 opciones de descargar como podemos ver en la siguiente imagen:
+   #### Dentro del link tendremos 2 opciones de descargar, como se puede ver en la siguiente imagen:
 
    <br>   
    
    ![DesgarcaIntellij](imagenes/DesgarcaIntellij.png)
-   #### Nosotros hemos decidido descarga la version Community como se puede ver en 
+   #### Nosotros hemos decidido descarga la version Community como se podemos ver a continuacion 
 
    <br> 
 
@@ -63,7 +63,7 @@
 
 ### **Instalacion Gradel**
 
-#### Luego de haber descargado  ambas herramientas configuraremos inicialmente la herramienta **Gradle** como nos sugiere la documentacion de la misma, esto lo podemos ver en la imagen que aparece  a continuacion
+#### Luego de haber descargado  ambas herramientas configuraremos inicialmente la herramienta **Gradle** siguiendola documentacion de la misma, esto lo podemos ver en la imagen que aparece  a continuacion
 
 <br>
 
@@ -75,7 +75,7 @@
 
 <br>
 
-#### Con base en lo anterior lo primero que se realizo fue el  descomprimir el archivo punto zip que quedo al realizar la descarga, esto se hizo dentro de una carpeta que nos resulto comoda de manejar como podemos ver  a continuacion:
+#### Con base en lo anterior lo primero que se realizo fue el  descomprimir el archivo punto zip que quedo al realizar la descarga, esto se hizo dentro de una carpeta que nos resulto comoda de manejar; esto se puede  ver  a continuacion:
 
 <br>
 
@@ -95,7 +95,7 @@
 
 
 
-#### Ya descomprimido el archivo y ubicado en una carpeta de nuestra eleccion, realizamos la configuracion de las variables de entorno para que el sistema reconozca la herramienta. Esto lo vamos a realizar de la siguiente forma:
+#### Ya descomprimido el archivo y ubicado en una carpeta que elegimos, realizamos la configuracion de las variables de entorno para que el sistema reconozca la herramienta. Esto lo vamos a realizar de la siguiente forma:
 
 <br>
 
@@ -107,23 +107,27 @@
 * #### **2)** Luego de dar clic nos aparecera una venta y damos  clic sobre la opcion que dice variables de entorno como se muestra acontinuacion 
   ![VentaIVariablesEn](imagenes/VentaIVariablesEn.png)
 
-* #### **3)** Ya en esta  ventana en la seccion que dice variables del sistema  y damos clic en la opcion nuevo como aparce en las siguiente imagen 
+* #### **3)** Ya en esta  ventana, en la seccion que dice variables del sistema  dimos clic en nuevo para crear la nueva variable, esto se puede ver en la siguiente imagen 
   ![VentaVariablesEn](imagenes/VentaVariablesEn.png)
 
 * #### **4)** Nos aparece una subventa que nos permitira ingresar el nombre de  la variable y la ruta donde se encuentra. El nombre por defecto que se debe colocoar es GRADLE_HOME  y  la ruta que se agrega corresponde a la ruta donde descomprimimos  la herramienta **Gradle**; luego de llenados estos datos damos aceptar como vemos a continuacion
   ![AgregarVariablesEn](imagenes/AgregarVariablesEn.png)
 
-* #### **5)** Luego de ingresada esta nueva variable nos dirigimos a la variable Path dando clic sobre ella, nos aperecera una nueva ventana donde crearemos una nueva ruta la cual va ser **%GRADLE_HOME%\bin** que hara referencia a la variable antes creada, al terminar de ingresar la ruta damos en aceptar; esto podemos visualor acontinuacion
+* #### **5)** Luego de ingresada esta nueva variable nos dirigimos a la variable Path dando clic sobre ella, nos aperecera una nueva ventana donde crearemos una nueva ruta la cual va a ser **%GRADLE_HOME%\bin** que hara referencia a la variable antes creada, al terminar de ingresar la ruta, damos en aceptar como se muestra en la imagen
    ![ConfigurarPath](imagenes/ConfigurarPath.png)
 
-* #### **6)** Terminado el paso anterior ya solo queda dar clic en aceptar en la ventana para que nos guarde todo lo que hemos hecho, esto podemos vizualizarlo acontinuacion
+* #### **6)** Terminado lo anterior, dimos clic en aceptar en la ventana de variables de entornopara que nos guarde todo lo que hemos hecho, esto podemos se puede visualizar en la siguiente imagen 
     ![FinalizarConfig](imagenes/FinalizarConfig.png)
 
-* #### **7)** Por ultimo podemos abrir el cmd para verificar si quedo correctamente configurado, para  ello necesitamos ejecutar el gradle -v como se ve acontinuacion
+* #### **7)** Por ultimo abrimos el cmd para verificar si quedo correctamente configurado, para  ello  ejecutamos el gradle -v como se ve acontinuacion
     ![PruebaConfig](imagenes/PruebaConfig.png)
 
-
 <br>
+
+### **Instalando IntelliJ IDEA**
+
+#### Luego de haber instalado la herramienta Gradle
+
 
 ### **Pruebas :**
 
