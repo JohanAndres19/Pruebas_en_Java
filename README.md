@@ -26,7 +26,7 @@
 ##  1. <a name='Objetivo:'></a>**Objetivo :**
 * ####  Conocer como se pueden realizar este tipo de pruebas en el Lenguaje Java usando las herramientas **Cucumber** , **Junit** y **Gradle** implementando el entorno de desarrollo **IntelliJ IDEA** 
 
-##  2. <a name='Herramientas:'></a>**Herramientas:**
+## 2. <a name='Herramientas:'></a>**Herramientas:**
 
 * #### **Cucumber :** Cucumber es una herramienta para implementar metodologías como el Behaviour Driven Development (BDD) o desarrollo basado en comportamiento, que permite ejecutar descripciones funcionales en texto plano como pruebas de software automatizadas.Estas descripciones funcionales se escriben en un lenguaje específico de dominio, legible por el área de negocio, denominado Gherkin. 
 
